@@ -4301,6 +4301,7 @@
 			margin: 0 0 2rem 0;
 			padding: 0;
 			text-align: center;
+			#one, #two, #three {display:none}
 		}
 
 		@media screen and (max-width: 736px) {
